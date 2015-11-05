@@ -6,3 +6,7 @@ There were two purposes to this project. One was to practice collabration. The s
 ## [Click Here to Start](home.md)
 
 ## [Link to Google Drawing Planning Sheet0]()
+
+## Link to our Github profiles
+## [Fabio V.]()
+## [John R.]()
