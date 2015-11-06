@@ -2,7 +2,7 @@
 ##Telecommunications
 ---
 
-You stay home and see that your friend from SEP gets your dream job at Google.
+You start for the baseball team next year and lead them to a PSAL Championship
 
 ## [Start Over](../home.md)
 ## [Back to README](../README.md)
