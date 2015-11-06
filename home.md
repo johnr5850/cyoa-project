@@ -9,3 +9,5 @@ You are entering Highschool, and get accepted into Telecommunications and Fort H
 
 ![Alt Text](https://pixabay.com/static/uploads/photo/2012/04/24/21/46/honey-40998_640.png)
 ![Alt Text](https://pixabay.com/static/uploads/photo/2012/05/04/12/41/tiger-47332_640.png)
+
+## Picture Credit to PixaBay
